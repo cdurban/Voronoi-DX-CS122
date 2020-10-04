@@ -1,1 +1,4 @@
 # Voronoi-DX-CS122
+It will allow a user to place many seeds (or Points) onto a 300x550 node. These points will "control" the area around them by setting the area (1x1 rectangles closest to it) around it to be the same color. Every cell will be a randomized color. There can be as many seeds as desired by the user. There will be controls to change the game. It can be based off of Euclidean, Manhattan or Chessboard distance all of which will change the visual state of the game. The user will also be able to change the color of every seed to be a random color.
+
+Collaborative project between Chase Urban and Tyler Reed
